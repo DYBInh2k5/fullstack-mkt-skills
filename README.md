@@ -11,7 +11,7 @@
 <p align="center">
   <strong>Bien AI thanh tro ly marketing chuyen nghiep — thiet ke cho thi truong Viet Nam.</strong>
   <br/>
-  <sub>Framework <b>Run By Linh</b> | Claude Code + ChatGPT + Gemini + Copilot</sub>
+  <sub>Framework <b>Over Powers Agency</b> | Claude Code + ChatGPT + Gemini + Copilot</sub>
 </p>
 
 ---
@@ -293,7 +293,7 @@ fullstack-mkt-skills/
 │
 ├── references/                 # Tai lieu tham khao
 │   ├── benchmarks-vietnam.md          Benchmark thi truong VN
-│   ├── channel-system.md              He thong kenh Run By Linh
+│   ├── channel-system.md              He thong kenh Over Powers Agency
 │   ├── content-angles.md              Goc do noi dung theo pheu
 │   ├── kpi-formulas.md                Cong thuc tinh KPI
 │   └── tool-stack.md                  Cong cu khuyen dung
@@ -348,7 +348,7 @@ MIT — tu do su dung, chinh sua, phan phoi.
 ---
 
 <p align="center">
-  <strong>Framework:</strong> Run By Linh
+  <strong>Framework:</strong> Over Powers Agency
   <br/>
   <strong>Benchmark:</strong> Thi truong Viet Nam 2025-2026
   <br/>

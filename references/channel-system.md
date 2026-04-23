@@ -1,4 +1,4 @@
-# He Thong Kenh — Run By Linh Framework
+# He Thong Kenh — Over Powers Agency Framework
 
 > He thong kenh marketing theo hanh trinh khach hang. Moi kenh co vai tro cu the trong pheu chuyen doi.
 
