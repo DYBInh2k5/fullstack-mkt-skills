@@ -1,3 +1,4 @@
+https://www.opa.business/blog/huong-dan-cai-dat-fullstack-marketing-skills-bien-claude-chatgpt-copilot-thanh-team-marketing-chuyen-nghiep?fbclid=IwY2xjawRZFS5leHRuA2FlbQIxMABicmlkETFoUEFjUVpmQnlyMVprTVRoc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHphvK76YP59qK_E2vU1XT8W60mSMjyY2qh2UEK2IVF6OaLl5b1w0Pz5e_0gj_aem_xAQIRuV78R2LpSfMMgTv6A
 <p align="center">
   <a href="README.md"><img src="https://img.shields.io/badge/Language-English-blue?style=for-the-badge" alt="English"/></a>
   <a href="README.vi.md"><img src="https://img.shields.io/badge/Ng%C3%B4n%20ng%E1%BB%AF-Ti%E1%BA%BFng%20Vi%E1%BB%87t-red?style=for-the-badge" alt="Tieng Viet"/></a>
